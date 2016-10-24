@@ -1,4 +1,4 @@
-# Project-C-IPhone
+# Project C (IPhone Edtition)
 
 ## Info: 
 Project Name: Project C (Iphone edition) <br>

@@ -7,9 +7,9 @@ Current Version: <br>
  | DevBuild: 0.0.0.1 <br>
  | Public Build: (none) <br>
 
-Most recent build status: (not tested);
- | Version tested: 
- | Successful: 
- | Failed: 
+Most recent build status: (not tested);<br>
+ | Version tested: <br>
+ | Successful: <br>
+ | Failed: <br>
 
 ## Development statics
